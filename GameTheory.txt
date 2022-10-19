@@ -1,0 +1,9 @@
+Game Theory
+	• C'est un jeu non coopératif car il ne peut avoir des ententes avec les 
+	joueurs et il n'a pas de tier pour renforcer des ententes.
+
+	• Le jeu est symétrique car si deux entité effectu la meme stratégie le resultat
+	donné sera le meme.
+
+	• Le jeu est un zero-sum game car lorsqu'une entité mange un pion c'est au détriment
+	d'un autre. Aucune ressource sont créés. Cumuler les deux pointage des entité donne 0.
